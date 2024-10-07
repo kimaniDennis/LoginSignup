@@ -1,0 +1,121 @@
+.Form {
+  border: 3px solid white;
+  border-radius: 25px;
+  background-color: rgb(138, 193, 198);
+}
+.header h1 {
+  color: whitesmoke;
+  text-underline-position: auto;
+}
+.login-container {
+  position: relative;
+  padding: 0 25px 10px 10px;
+
+  margin: 0;
+}
+.h1-txt {
+  position: relative;
+}
+.btns2 {
+  position: relative;
+  top: 2rem;
+}
+.login-inputs {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  margin: 0;
+  height: 15rem;
+
+  padding: 10px 10px 10px 10px;
+}
+.icon-user {
+  color: white;
+  position: relative;
+  left: 8.6rem;
+  bottom: 1.9rem;
+}
+.icon-mail {
+  color: white;
+  position: relative;
+  left: 8.6rem;
+  bottom: 2rem;
+}
+.icon-lock {
+  color: white;
+  position: relative;
+  left: 8.6rem;
+  bottom: 2rem;
+}
+.SignUp-inputs input {
+  border-radius: 15px;
+  padding: 8px 15px 10px 10px;
+}
+.submit {
+  align-items: center;
+  justify-content: center;
+  width: 40%;
+  color: white;
+  font-weight: 700;
+  position: relative;
+  right: 0rem;
+  bottom: 3rem;
+  border-radius: 25px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.submit-sign-up {
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  right: -1rem;
+  bottom: 2rem;
+  border-radius: 25px;
+}
+.SignUp-inputs .lost {
+  position: relative;
+  bottom: 1rem;
+}
+.submit-gray {
+  background: #eaeaea;
+  color: #676767;
+  position: relative;
+  right: -2rem;
+  bottom: 3rem;
+  border-radius: 25px;
+}
+.Sign-Up .submit-gray {
+  position: relative;
+  right: -5rem;
+  bottom: 5.5rem;
+}
+.Login-now .submit-gray {
+  position: relative;
+  left: 4rem;
+  bottom: 3.5rem;
+}
+.Login-now .submit {
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  bottom: 6rem;
+  right: -1rem;
+}
+.Login-now.icon-mail {
+  position: relative;
+  left: 2rem;
+}
+.Sign-Up .submit {
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  right: -2rem;
+  align-items: center;
+  justify-content: center;
+}
+.choose {
+  position: relative;
+  top: -3rem;
+}

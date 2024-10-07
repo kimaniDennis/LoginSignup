@@ -1,0 +1,61 @@
+.fgotpass {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 27rem;
+  top: 10rem;
+  border: 2px white solid;
+}
+.regain {
+  background-color: rgb(21, 199, 193);
+  padding: 2rem 4rem;
+  position: relative;
+  right: 0rem;
+}
+.regain h2 {
+  text-decoration: underline;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.verify {
+  width: 60%;
+  font-size: 20px;
+  padding: 2px 9px;
+  position: relative;
+  left: 3rem;
+}
+.Env {
+  position: absolute;
+  font-size: 2rem;
+  right: 1.5rem;
+}
+.veri-mail {
+  border: 2px white solid;
+  font-size: 18px;
+  padding: 4px 10px;
+  border-radius: 30px;
+}
+.return {
+  position: relative;
+  left: 4rem;
+  width: 60%;
+}
+.return a {
+  display: flex;
+  color: white;
+  font-size: 1.5rem;
+  width: 60%;
+}
+.Home {
+  color: white;
+  font-size: 2rem;
+}
+.return a:hover {
+  transform: translateY(-0.5rem);
+  text-decoration: underline;
+}
